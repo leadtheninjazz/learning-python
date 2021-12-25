@@ -34,9 +34,9 @@
 #print(deptrai [0:3])
 
 #formated strings
-first = "Anh Huy"
-last = "Le"
+#first = "Anh Huy"
+#last = "Le"
 #message = first + ' [' + last + '] is a coder'
 #print(message)
-msg = f'{first} [{last}] is a coder'
-print(msg)
+#msg = f'{first} [{last}] is a coder'
+#print(msg)
