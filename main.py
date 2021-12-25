@@ -46,4 +46,9 @@
 
 # string methods
 pussi = 'pounding on your mum pussi while u are at school'
-print(len(pussi))
+# print(len(pussi))
+# pussi.upper()
+# print(pussi.upper())
+# pussi.find('o')
+# print(pussi.find('o'))
+print(pussi.replace('pounding', 'sucking'))
