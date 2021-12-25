@@ -40,6 +40,10 @@
 # print(message)
 # msg = f'{first} [{last}] is a coder'
 # print(msg)
-pussy = "pussi"
-msg = f'im in your mum ({(pussy)})'
-print(msg)
+# pussy = "pussi"
+# msg = f'im in your mum ({(pussy)})'
+# print(msg)
+
+# string methods
+pussi = 'pounding on your mum pussi while u are at school'
+print(len(pussi))
