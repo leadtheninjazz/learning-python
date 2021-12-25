@@ -30,13 +30,16 @@
 #print ( weight_pounds )
 
 #strings
-#deptrai = "lah dep trai so 1 tg"
-#print(deptrai [0:3])
+# deptrai = "lah dep trai so 1 tg"
+# print(deptrai [0:3])
 
-#formated strings
-#first = "Anh Huy"
-#last = "Le"
-#message = first + ' [' + last + '] is a coder'
-#print(message)
-#msg = f'{first} [{last}] is a coder'
-#print(msg)
+# formated strings
+# first = "Anh Huy"
+# last = "Le"
+# message = first + ' [' + last + '] is a coder'
+# print(message)
+# msg = f'{first} [{last}] is a coder'
+# print(msg)
+pussy = "pussi"
+msg = f'im in your mum ({(pussy)})'
+print(msg)
